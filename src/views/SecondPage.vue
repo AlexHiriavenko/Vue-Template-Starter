@@ -1,8 +1,6 @@
 <template>
   <v-container fluid class="views favorites">
-    <h2 class="text-h3 text-white text-center py-12 page-title">
-      Favorites Page
-    </h2>
+    <h2 class="text-h3 text-white text-center py-12 page-title">Second Page</h2>
   </v-container>
 </template>
 

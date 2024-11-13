@@ -1,7 +1,7 @@
 <template>
-  <v-layout>
+  <v-layout class="flex-md-column">
     <HeaderApp />
-    <v-main>
+    <v-main class="d-flex flex-md-column justify-center">
       <LoaderSpinner
         :is-loading="!contentStore.content"
         :color="'white'"
