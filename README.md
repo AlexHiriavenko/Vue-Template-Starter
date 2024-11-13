@@ -1,3 +1,7 @@
+# Vue Starter Template. Composition API.
+
+[RU lang](https://github.com/AlexHiriavenko/Vue-Template-Starter/blob/main/ReadMeRu.md)
+
 #### Vue Starter project on Vite for a quick start in developing Vue applications using the Composition API.
 
 #### If you want to start from a clean slate, use the "initial" branch.
